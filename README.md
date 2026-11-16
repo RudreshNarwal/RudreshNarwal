@@ -17,7 +17,7 @@
 |---|---|---|
 | [**Zwiim**](https://github.com/zwiim/zwiim) | Mac app for running coding agents | Contributor: on-device voice dictation ([#39](https://github.com/zwiim/zwiim/pull/39)) |
 | [**TableIQ**](https://github.com/Table-IQ) | Free, open-source database client for Mac, optional AI with your own key ([site](https://tableiq.ideolyst.com/)) | Builder |
-| [**Relay**](https://github.com/Ideolyst/relay) | Recorder app by Ideolyst ([relay.ideolyst.com](https://relay.ideolyst.com)) | Builder |
+| [**Relay**](https://github.com/Ideolyst/relay) | Open-source Loom alternative: self-hosted video workspace with a native macOS recorder ([site](https://relay.ideolyst.com)) | Builder |
 | [**Provenship**](https://github.com/RudreshNarwal/provenship) | Hand Claude Code one requirement, get back a PR with proof | Creator |
 
 ### 🌳 Skill tree
