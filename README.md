@@ -22,8 +22,8 @@
 
 ### 🌳 Skill tree
 
-**Agents & AI:** LLM agents, RAG, document AI, self-hosted open models
-**Backend:** Python, Django, Node.js, TypeScript, Rust
+**Agents & AI:** LLM agents, RAG, document AI, self-hosted open models<br>
+**Backend:** Python, Django, Node.js, TypeScript, Rust<br>
 **Infra:** AWS, Docker, Kubernetes, microservices
 
 <p>
